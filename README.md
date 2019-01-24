@@ -15,7 +15,7 @@
  ### Getting Started Examples
 
  - [SOCH on a Shoestring](https://github.com/carwash/SOCH-on-a-Shoestring) - Miniamal K-samsök usage examples in Bash and Perl.
- - [soch.js](https://gist.github.com/Abbe98/f3c5c62f50d691a4c5212e095c037053) - Minimal K-smasök usage examples in modern Javascript.
+ - [soch.js](https://gist.github.com/Abbe98/f3c5c62f50d691a4c5212e095c037053) - Minimal K-samsök usage examples in modern Javascript.
 
 ### Code Libraries
 
