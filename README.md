@@ -1,2 +1,46 @@
-# awesome-k-samsok
-Curated list of the best Swedish Open Cultural Heritage examples and project out in the wild.
+# Awesome K-samsök
+
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+
+**Curated** list of the best Swedish Open Cultural Heritage/K-samsök resources and projects out in the wild.
+
+## Contents
+
+ - [Getting Started Examples](#Getting-Started-Examples)
+ - [Code Libraries](#Code-Libraries)
+ - [Applictions using K-samsök](#Applications-using-K-samok)
+ - [Tools and Services](#Tools-and-Services)
+ - [Tutorials and Articles](#Tutorials-and-Articles)
+ 
+ ### Getting Started Examples
+
+ - [SOCH on a Shoestring](https://github.com/carwash/SOCH-on-a-Shoestring) - Miniamal K-samsök usage examples in Bash and Perl.
+ - [soch.js](https://gist.github.com/Abbe98/f3c5c62f50d691a4c5212e095c037053) - Minimal K-smasök usage examples in modern Javascript.
+
+### Code Libraries
+
+ - [ksamsok-py](https://github.com/Abbe98/ksamsok-py) - Python library for K-samsök.
+ - [ksamsok-php](https://byabbe.se/ksamsok-php/) - PHP library for K-samsök.
+ - [soch-ugc-py](https://github.com/Abbe98/soch-ugc-py) - Python library for reading and writing data to K-samsöks user generated content platform.
+ - [KNReiseAPI](https://github.com/knreise/KNReiseAPI) - Javascript wrapper over various geospatial/cultural heritage APIs including K-samsök.
+
+### Applications using K-samök
+
+ - [Kringla.nu](http://www.kringla.nu/kringla/) - Kringla.nu lets you search all of K-samsök as well as add information to the User Generated Content platform. 
+ - [Faces of Sweden](https://riksantikvarieambetet.github.io/Faces-of-Sweden/) - Exprimental timeline interface showcasing historical portraits.
+ - [Historiska Museet](http://historiska.se/search-results/?i=ksamsok&q=kvinna&type%5B%5D=object) - Searching the Swedish History Museum's collection online.
+ - [Fornfynd](https://itunes.apple.com/se/app/fornfynd/id443389155) - iOS app for searching and discovering heritage sites.
+ - [Kringla Visualized](https://riksantikvarieambetet.github.io/Kringla-Visualized/) - A collection of K-samsök data visualizations.
+
+ ### Tools and Services
+ 
+  - [ksamsok-rest](https://github.com/Abbe98/ksamsok-rest) - A RESTful API build on top of K-samsök.
+  - [SOCH Download CLI](https://github.com/riksantikvarieambetet/SOCH-download-CLI) - Command line interface for batch downloading of K-Samsök records.
+ - [SOCH DCAT-AP](https://github.com/riksantikvarieambetet/soch-dcat-ap) - Service providing all K-samsök datasets to the Swedish Open data portal.
+
+### Tutorials and Articles
+
+ - [KSamsok PHP the Basics](https://byabbe.se/2016/01/25/ksamsok-the-basics)
+ - [KSamsok PHP Advanced Usage](https://byabbe.se/2016/01/26/ksamsok-php-advanced-usage)
+ - [K-samsök på 17 rader kod](http://www.k-blogg.se/2009/06/29/gastblogg-k-samsok-pa-17-rader-kod/)
+ - [Länkrika objekt i K-Samsök](http://www.k-blogg.se/2015/02/20/lankrika-objekt-k-samsok/)
