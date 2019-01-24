@@ -8,7 +8,7 @@
 
  - [Getting Started Examples](#Getting-Started-Examples)
  - [Code Libraries](#Code-Libraries)
- - [Applictions using K-samsök](#Applications-using-K-samok)
+ - [Applictions using K-samsök](#Applications-using-K-samök)
  - [Tools and Services](#Tools-and-Services)
  - [Tutorials and Articles](#Tutorials-and-Articles)
  
