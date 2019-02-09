@@ -47,4 +47,4 @@ Items marked with ![Open-Source Software][OSS Icon] are open-source software.
  - [K-samsök på 17 rader kod](http://www.k-blogg.se/2009/06/29/gastblogg-k-samsok-pa-17-rader-kod/)
  - [Länkrika objekt i K-Samsök](http://www.k-blogg.se/2015/02/20/lankrika-objekt-k-samsok/)
 
-[OSS Icon]: https://cdn.rawgit.com/Abbe98/awesome-k-samsok/master/media/OSS.svg
+[OSS Icon]: https://cdn.rawgit.com/Abbe98/awesome-k-samsok/master/media/oss.svg
