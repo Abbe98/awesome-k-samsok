@@ -18,7 +18,8 @@ Items marked with ![Open-Source Software][OSS Icon] are open-source software.
 
  - [SOCH on a Shoestring](https://github.com/carwash/SOCH-on-a-Shoestring) - Miniamal K-samsök usage examples in Bash and Perl. [![Open-Source Software][OSS Icon]](https://github.com/carwash/SOCH-on-a-Shoestring)
  - [soch.js](https://gist.github.com/Abbe98/f3c5c62f50d691a4c5212e095c037053) - Minimal K-samsök usage examples in modern Javascript. [![Open-Source Software][OSS Icon]](https://gist.github.com/Abbe98/f3c5c62f50d691a4c5212e095c037053)
-
+ - [K-samsök Basics](https://gist.github.com/Abbe98/882a374350d20b980190c3148f787f5a) - Python Jupyter Notebook to get you started with K-samsök. [![Open-Source Software][OSS Icon]](https://gist.github.com/Abbe98/882a374350d20b980190c3148f787f5a)
+ 
 ### Code Libraries
 
  - [ksamsok-py](https://github.com/Abbe98/ksamsok-py) - Python library for K-samsök. [![Open-Source Software][OSS Icon]](https://github.com/Abbe98/ksamsok-py)
