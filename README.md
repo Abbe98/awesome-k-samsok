@@ -34,12 +34,14 @@ Items marked with ![Open-Source Software][OSS Icon] are open-source software.
  - [Historiska Museet](http://historiska.se/search-results/?i=ksamsok&q=kvinna&type%5B%5D=object) - Searching the Swedish History Museum's collection online.
  - [Fornfynd](https://itunes.apple.com/se/app/fornfynd/id443389155) - iOS app for searching and discovering heritage sites.
  - [Kringla Visualized](https://riksantikvarieambetet.github.io/Kringla-Visualized/) - A collection of K-samsök data visualizations. [![Open-Source Software][OSS Icon]](https://github.com/riksantikvarieambetet/Kringla-Visualized)
+ - [Hilding bot](https://twitter.com/hilding_bot) - A Twitter bot for media in K-samsök. [![Open-Source Software][OSS Icon]](https://github.com/carwash/hilding_bot)
 
  ### Tools and Services
 
  - [ksamsok-rest](https://github.com/Abbe98/ksamsok-rest) - A RESTful API build on top of K-samsök. [![Open-Source Software][OSS Icon]](https://github.com/Abbe98/ksamsok-rest)
  - [SOCH Download CLI](https://github.com/riksantikvarieambetet/SOCH-download-CLI) - Command line interface for batch downloading of K-Samsök records. [![Open-Source Software][OSS Icon]](https://github.com/riksantikvarieambetet/SOCH-download-CLI)
  - [SOCH DCAT-AP](https://github.com/riksantikvarieambetet/soch-dcat-ap) - Service providing all K-samsök datasets to the Swedish Open data portal. [![Open-Source Software][OSS Icon]](https://github.com/riksantikvarieambetet/soch-dcat-ap)
+ - [Thor SPARQL Editor](https://byabbe.se/thor/) - A powerful SPARQL editor for K-samsök. [![Open-Source Software][OSS Icon]](https://github.com/Abbe98/thor)
 
 ### Tutorials and Articles
 
