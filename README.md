@@ -9,6 +9,7 @@ Items marked with ![Open-Source Software][OSS Icon] are open-source software.
 ## Contents
 
  - [Getting Started Examples](#Getting-Started-Examples)
+ - [K-samsök Itself](#K-samsök-Itself)
  - [Code Libraries](#Code-Libraries)
  - [Applictions using K-samsök](#Applications-using-K-samök)
  - [Tools and Services](#Tools-and-Services)
@@ -19,7 +20,12 @@ Items marked with ![Open-Source Software][OSS Icon] are open-source software.
  - [SOCH on a Shoestring](https://github.com/carwash/SOCH-on-a-Shoestring) - Miniamal K-samsök usage examples in Bash and Perl. [![Open-Source Software][OSS Icon]](https://github.com/carwash/SOCH-on-a-Shoestring)
  - [soch.js](https://gist.github.com/Abbe98/f3c5c62f50d691a4c5212e095c037053) - Minimal K-samsök usage examples in modern Javascript. [![Open-Source Software][OSS Icon]](https://gist.github.com/Abbe98/f3c5c62f50d691a4c5212e095c037053)
  - [K-samsök Basics](https://gist.github.com/Abbe98/882a374350d20b980190c3148f787f5a) - Python Jupyter Notebook to get you started with K-samsök. [![Open-Source Software][OSS Icon]](https://gist.github.com/Abbe98/882a374350d20b980190c3148f787f5a)
- 
+
+### K-samsök Itself
+ - [K-samsök](https://github.com/riksantikvarieambetet/ksamsok) - Mirror of K-samsök's main codebase. [![Open-Source Software][OSS Icon]](https://github.com/riksantikvarieambetet/ksamsok)
+ - [K-samsök Solr](https://github.com/riksantikvarieambetet/ksamsok-solr) - Mirror of K-samsök's Solr configuration. [![Open-Source Software][OSS Icon]](https://github.com/riksantikvarieambetet/ksamsok-solr)
+ - [SOCH DCAT-AP](https://github.com/riksantikvarieambetet/soch-dcat-ap) - Service providing all K-samsök datasets to the Swedish Open data portal. [![Open-Source Software][OSS Icon]](https://github.com/riksantikvarieambetet/soch-dcat-ap)
+
 ### Code Libraries
 
  - [ksamsok-py](https://github.com/Abbe98/ksamsok-py) - Python library for K-samsök. [![Open-Source Software][OSS Icon]](https://github.com/Abbe98/ksamsok-py)
@@ -40,7 +46,6 @@ Items marked with ![Open-Source Software][OSS Icon] are open-source software.
 
  - [ksamsok-rest](https://github.com/Abbe98/ksamsok-rest) - A RESTful API build on top of K-samsök. [![Open-Source Software][OSS Icon]](https://github.com/Abbe98/ksamsok-rest)
  - [SOCH Download CLI](https://github.com/riksantikvarieambetet/SOCH-download-CLI) - Command line interface for batch downloading of K-Samsök records. [![Open-Source Software][OSS Icon]](https://github.com/riksantikvarieambetet/SOCH-download-CLI)
- - [SOCH DCAT-AP](https://github.com/riksantikvarieambetet/soch-dcat-ap) - Service providing all K-samsök datasets to the Swedish Open data portal. [![Open-Source Software][OSS Icon]](https://github.com/riksantikvarieambetet/soch-dcat-ap)
  - [Thor SPARQL Editor](https://byabbe.se/thor/) - A powerful SPARQL editor for K-samsök. [![Open-Source Software][OSS Icon]](https://github.com/Abbe98/thor)
 
 ### Tutorials and Articles
