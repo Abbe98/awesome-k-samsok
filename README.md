@@ -37,7 +37,6 @@ Items marked with ![Open-Source Software][OSS Icon] are open-source software.
 
  - [Kringla.nu](http://www.kringla.nu/kringla/) - Kringla.nu lets you search all of K-samsök as well as add information to the User Generated Content platform.
  - [Faces of Sweden](https://riksantikvarieambetet.github.io/Faces-of-Sweden/) - Exprimental timeline interface showcasing historical portraits. [![Open-Source Software][OSS Icon]](https://github.com/riksantikvarieambetet/Faces-of-Sweden)
- - [Historiska Museet](http://historiska.se/search-results/?i=ksamsok&q=kvinna&type%5B%5D=object) - Searching the Swedish History Museum's collection online.
  - [Fornfynd](https://itunes.apple.com/se/app/fornfynd/id443389155) - iOS app for searching and discovering heritage sites.
  - [Kringla Visualized](https://riksantikvarieambetet.github.io/Kringla-Visualized/) - A collection of K-samsök data visualizations. [![Open-Source Software][OSS Icon]](https://github.com/riksantikvarieambetet/Kringla-Visualized)
  - [Hilding bot](https://twitter.com/hilding_bot) - A Twitter bot for media in K-samsök. [![Open-Source Software][OSS Icon]](https://github.com/carwash/hilding_bot)
